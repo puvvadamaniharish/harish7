@@ -16,11 +16,11 @@ class Ideone
 		c = a+b;
 		if (c%2 == 0)
 		{
-			System.out.println("Even");
+			System.out.println("even");
 		}
 		else
 		{
-			System.out.println("Odd");
+			System.out.println("odd");
 		}
 	}
 }
