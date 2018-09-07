@@ -28,7 +28,7 @@ class Ideone
 	             if (count > 0)
 	               System.out.println("yes");
 	               else
-	                 System.out.println("no");
+	                System.out.println("no");
 	               
 	}
 }
